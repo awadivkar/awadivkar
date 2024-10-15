@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋  
+
+- Interested in Astrophysics/Cosmology
+- Currently working on exoplanetary research
+- Reach me at: a.wadivkar@wustl.edu
+- LinkedIn: https://www.linkedin.com/in/aavik-wadivkar-976666288/
+- Youtube: www.youtube.com/@EssenceofReality42
 
 <!--
 **awadivkar/awadivkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
