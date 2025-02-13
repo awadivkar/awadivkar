@@ -1,4 +1,4 @@
-## Hi there 👋  
+## 🔭🔭🔭
 
 - Interested in Astrophysics/Cosmology
 - Currently working on exoplanetary research
