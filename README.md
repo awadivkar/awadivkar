@@ -1,7 +1,7 @@
 ## 🔭🔭🔭
 
 - Interested in Astrophysics/Cosmology
-- Currently working on exoplanetary research
+- Currently working on exoplanetary research and satellite work
 - Reach me at: a.wadivkar@wustl.edu
 - LinkedIn: https://www.linkedin.com/in/aavik-wadivkar-976666288/
 - Youtube: www.youtube.com/@EssenceofReality42
